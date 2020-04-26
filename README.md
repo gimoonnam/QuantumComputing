@@ -5,6 +5,11 @@ Repo for study on Quantum computing algorithms
 https://qiskit.org/textbook/ch-algorithms/deutsch-josza.html
 
 
+# Grover's Algorithm for 2-qubit circuit,having one marked state |01>
+![Implementation of Grover's Algorithm 003](https://user-images.githubusercontent.com/34852540/80299319-6e31ed80-87ce-11ea-8ce1-89cfb97cd9d2.png)
+
+
+
 
 
 # Grover's Algorithm for 3-qubit circuit, having two marked states |101> and |110>
