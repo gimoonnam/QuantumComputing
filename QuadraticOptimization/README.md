@@ -1,3 +1,5 @@
+## Quadratic Optimization 
+
 This directory is dedicated to self-study on a quadratic optimization problem using a quantum annealer. 
 
 There are four input files 
@@ -17,16 +19,13 @@ The third column indicate coefficients of the quadratic function.
 
 Then the objective function for this example can be written as follow
 
-f(x1, x2, x3) = -2.0*x1 + 3.0*x3 -1.0*x2*x3 
+$f(x1, x2, x3) = -2.0*x1 + 3.0*x3 -1.0*x2*x3 $
 
 Each variable can only have either 0 or 1, and then there will be 2^3(=8) possible combinatorial solutions.
 
 For this example, 
-x1x2x3
-000/111
-001/110
-010/101
-100/011
+(x1,x2,x3)
+000/111/001/110/010/101/100/011
 
 these are the possible combinations. 
 
