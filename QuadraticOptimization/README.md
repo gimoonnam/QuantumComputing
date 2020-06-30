@@ -19,7 +19,7 @@ Then the objective function for this example can be written as follow
 
 <img src="https://www.codecogs.com/eqnedit.php?latex=H(x_1,x_2,x_3)&space;=&space;-2x_1&space;&plus;&space;3x_3&space;-x_2x_3" target="_blank"><img src="https://latex.codecogs.com/gif.latex?H(x_1,x_2,x_3)&space;=&space;-2x_1&space;&plus;&space;3x_3&space;-x_2x_3" title="H(x_1,x_2,x_3) = -2x_1 + 3x_3 -x_2x_3" /></a>
 
-Each variable can only have either 0 or 1, and then there will be 2^3(=8) possible combinatorial solutions. For this case, there are eight possible combinations like
+Each variable can only have either 0 or 1, and then there will be 2^3(=8) possible combinatorial solutions. For this case, there are eight possible combinations as
 <img src="https://www.codecogs.com/eqnedit.php?latex=(x1,x2,x3)=&space;000/111/001/110/010/101/100/011" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(x1,x2,x3)=&space;000/111/001/110/010/101/100/011" title="(x1,x2,x3)= 000/111/001/110/010/101/100/011" /></a>
 
 The optimal solution minimizes the objective function H.  
